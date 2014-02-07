@@ -1,4 +1,4 @@
 ABAP
 ====
 
-ABAP Code sample
+Code sample
