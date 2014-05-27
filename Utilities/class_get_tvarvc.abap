@@ -10,7 +10,7 @@ CLASS zcl_tvarv_utilities DEFINITION
 *& ABAP Sample Code
 *& Get data from TVARVC
 *&
-*& Maurício Lauffer - 10.05.2013
+*& Mauricio Lauffer
 *& http://www.linkedin.com/in/mauriciolauffer
 *&
 *& This class helps you to get data from TVARVC
