@@ -1,3 +1,15 @@
+*&---------------------------------------------------------------------*
+*& Report  ZAPPOINTMENT_SAP_OUTLOOK
+*&
+*&---------------------------------------------------------------------*
+*& ABAP Sample Code
+*& Create an appointment at SAP Schedule and send to Outlook
+*&
+*& Mauricio Lauffer
+*& http://www.linkedin.com/in/mauriciolauffer
+*&
+*&---------------------------------------------------------------------*
+
 REPORT zappointment_sap_outlook.
 
 
